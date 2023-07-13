@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 Connnect with Me 🔗
 
-[LinkenIn] (https://www.linkedin.com/in/sanjana-v-9857641a8/)
-[GitHub] (https://github.com/sanjana19991118)
-[Email] (sanjanav1899@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/sanjana-v-9857641a8)
