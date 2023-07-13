@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Sanjana V
+ ### Hi there 👋 , I'm Sanjana V
 
 <!--
 **sanjana19991118/sanjana19991118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,11 +22,14 @@ Here are some ideas to get you started:
 - 🕸️ Passionate about developing applications that can provide services to the people.
 
 
-### Teck Stack 🛠
+###  🛠 Teck Stack 
 -  💻 Javascript | ES6 & ES5
 -  🌐 HTML5 | CSS | BOOTSTRAP | React.js | Node.js | Express.js
 -  🛢  MongoDB | SQL
 -  🔧  Git | Markdown
 
-### 🤝🏻 Connnect with Me 
-      
+### 🤝🏻 Connnect with Me 🔗
+
+[LinkenIn] (https://www.linkedin.com/in/sanjana-v-9857641a8/)
+[GitHub] (https://github.com/sanjana19991118)
+[Email] (sanjanav1899@gmail.com)
