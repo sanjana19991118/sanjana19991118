@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , I'm Sanjana V
 
 <!--
 **sanjana19991118/sanjana19991118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+###  👨🏻‍💻 About Me 
+
+- 🔭 Currently working on Full Stack (MongoDB, Express.js, React.js, Node.js).
+- 🌱 Learning more about technologies that go into building Full Stack Applications.
+- 😄 Exploring new technologies and developing software solutions.
+- 🕸️ Passionate about developing applications that can provide services to the people.
+
+
+### Teck Stack 🛠
+-  💻 Javascript | ES6 & ES5
+-  🌐 HTML5 | CSS | BOOTSTRAP | React.js | Node.js | Express.js
+-  🛢  MongoDB | SQL
+-  🔧  Git | Markdown
+
+### 🤝🏻 Connnect with Me 
+      
