@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ###  🛠 Teck Stack 
 -  💻 Javascript | ES6 & ES5
 -  🌐 HTML5 | CSS | BOOTSTRAP | React.js | Node.js | Express.js
--  🛢  MongoDB | SQL | Exploring PostgreSQL
+-  🛢  MongoDB | SQL 
 -  🔧  Git | Markdown
 
 ### 🤝🏻 Connnect with Me 🔗
